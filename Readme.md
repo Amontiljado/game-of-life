@@ -12,7 +12,7 @@ npm run serve
 ```
 
 ## TODO
-- possible state inversion bug
+- possibly runtime state inversion bug (works fine without simulation)
 - draw mod
 - further notation support (generations, different neighborhoods, etc.)
-- performance with a high number of simultaneously rendered cells
+- performance problem in FF
