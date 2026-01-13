@@ -1,11 +1,18 @@
 # Conway's Game Of Life
 
-### Build:
+## How to
+Build:
 ```bash
 npm run build
 ```
 
-### Local server
+Local server:
 ```bash
 npm run serve
 ```
+
+## TODO
+- possible state inversion bug
+- draw mod
+- further notation support (generations, different neighborhoods, etc.)
+- performance with a high number of simultaneously rendered cells
