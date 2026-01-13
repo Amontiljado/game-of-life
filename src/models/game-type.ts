@@ -1,0 +1,10 @@
+export enum GameType {
+    DEFAULT = 'B3/S23',
+    SEEDS = 'B2/S',
+    FLAKES = 'B3/S012345678',
+    LIFE_34 = 'B34/S34',
+    DIAMOEBA = 'B35678/S5678',
+    DAY_NIGHT = 'B3678/S34678',
+    ANNEAL = 'B4678/S35678',
+    MORLEY = 'B368/S245',
+}
