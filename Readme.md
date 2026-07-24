@@ -15,4 +15,4 @@ npm run serve
 - possibly runtime state inversion bug (works fine without simulation)
 - draw mod
 - further notation support (generations, different neighborhoods, etc.)
-- performance problem in FF
+- performance problem (need to dynamically change rendering speed)
